@@ -11,6 +11,7 @@
 
 <?php
 echo 'GitHub学習1';
+echo 'はじめての更新';
 ?>
 
 
