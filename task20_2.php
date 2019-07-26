@@ -11,6 +11,7 @@
 
 <?php
 echo 'GitHub学習2';
+echo '更新しました';
 ?>
 
 
